@@ -1,0 +1,19 @@
+2021-05-06 14:19:50,172 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <LOGIN.NAME>amrita</LOGIN.NAME>
+            <LOGIN.PASSWORD>welcome</LOGIN.PASSWORD>
+        </Row>
+        <Row rowNumber="2">
+            <LOGIN.NAME>asmi</LOGIN.NAME>
+            <LOGIN.PASSWORD>welcome1</LOGIN.PASSWORD>
+        </Row>
+        <Row rowNumber="3">
+            <LOGIN.NAME>nimmi</LOGIN.NAME>
+            <LOGIN.PASSWORD>welcome2</LOGIN.PASSWORD>
+        </Row>
+    </ResultSet>
+</Results>
+
+2021-05-06 14:19:50,380 INFO  [log] 3
+2021-05-06 14:19:50,387 INFO  [log] 3

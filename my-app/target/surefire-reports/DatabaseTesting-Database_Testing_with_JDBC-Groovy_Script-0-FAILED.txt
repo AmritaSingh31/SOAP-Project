@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 764
+Size: 0
+Timestamp: Thu May 06 14:19:49 IST 2021
+TestStep: Groovy Script
+Error:java.lang.NullPointerException: Cannot invoke method getProjectByName() on null object
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException: Cannot invoke method getProjectByName() on null object
+error at line: 16
